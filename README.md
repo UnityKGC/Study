@@ -3,5 +3,6 @@
 
 | Study | Link | Update |
 |:------:|:----:|:-------:|
-| **Flutter** | [🔗](https://github.com/Virtual-HDL/Study/tree/master/Flutter) | 매주 수요일
+| 📁 **Embedded** | [🔗](https://github.com/Virtual-HDL/Study/tree/master/Embedded) | 상시 |
+| 📁 **Flutter** | [🔗](https://github.com/Virtual-HDL/Study/tree/master/Flutter) | 매주 수요일 |
 

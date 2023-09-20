@@ -38,7 +38,7 @@ class SLWdemo extends StatelessWidget {
 
 ## StatefulWidget
 
-> 💡 한번 생성한 화면의 구성이변경될 수 있는 경우에 사용하는 위젯 클래스
+> 💡 한번 생성한 화면의 구성이 변경될 수 있는 경우에 사용하는 위젯 클래스
 
 ### 특징
 - State 객체의 **setState 메서드**가 위젯의 상태 변화를 알려줌
