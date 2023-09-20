@@ -7,5 +7,5 @@
 
 ### 목차
 | Index | Link | Update |
-|:-----:|:----:|:------:|
+|:------|:----:|:-------|
 | 📁 **concept** | [🔗](https://github.com/Virtual-HDL/Study/tree/master/Embedded/concept) | 2023.09.20 |

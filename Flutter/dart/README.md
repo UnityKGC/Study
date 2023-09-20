@@ -8,5 +8,5 @@
 
 ### 목차
 | Index | Link | Update |
-|:-----:|:----:|:------:|
+|:------|:----:|:-------|
 | 📄 variable | [🔗](https://github.com/Virtual-HDL/Study/tree/master/Flutter/dart/variable.md) | 2023.09.20 |

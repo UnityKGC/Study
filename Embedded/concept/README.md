@@ -9,4 +9,3 @@
 | Index | Link | Update |
 |:-----:|:----:|:------:|
 | 📄 **i2c** | [🔗](https://github.com/Virtual-HDL/Study/tree/master/Embedded/concept/i2c.md) | 2023.09.20 |
-념
