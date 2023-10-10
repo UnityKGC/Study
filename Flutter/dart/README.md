@@ -10,3 +10,4 @@
 | Index | Link | Update |
 |:------|:----:|:-------|
 | 📄 variable | [🔗](https://github.com/Virtual-HDL/Study/tree/master/Flutter/dart/variable.md) | 2023.09.20 |
+| 📄 collection | [🔗](https://github.com/Virtual-HDL/Study/tree/master/Flutter/dart/collection.md) | 2023.10.11 |
